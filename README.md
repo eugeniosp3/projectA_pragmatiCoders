@@ -4,6 +4,7 @@
 # How does it work?
 Look at projectA.py. ProjectA.py is the central document in this project. All of the necessary functions are called from here. These functions call utility functions as needed. 
 <br>
+Look at the projectARequirements.xlsx to see how requirements were documented from the provided description and minimum requirements.
 
 # Car Loan Calculator
 
