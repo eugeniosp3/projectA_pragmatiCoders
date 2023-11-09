@@ -1,4 +1,9 @@
 # projectA_pragmatiCoders
+<br>
+
+# How does it work?
+<br>Look at projectA.py. This is the central document in this project. All of the necessary functions are called from here. These functions call utility functions as needed. 
+<br>
 
 Car Loan Calculator
 
